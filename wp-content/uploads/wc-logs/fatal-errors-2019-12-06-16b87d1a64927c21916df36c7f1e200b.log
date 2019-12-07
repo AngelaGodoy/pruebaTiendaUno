@@ -1,0 +1,50 @@
+2019-12-06T00:03:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\diviwordpress\wp-includes\plugin.php en la línea 192
+
+2019-12-06T00:06:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\diviwordpress\wp-includes\l10n.php en la línea 176
+
+2019-12-06T00:39:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\diviwordpress\wp-content\themes\Divi\includes\builder\module\BarCounters.php en la línea 3
+
+2019-12-06T00:39:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\diviwordpress\wp-content\themes\Divi\includes\builder\class-et-builder-element.php en la línea 8190
+
+2019-12-06T00:39:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\diviwordpress\wp-content\themes\Divi\includes\builder\module\FullwidthPostTitle.php en la línea 3
+
+2019-12-06T00:39:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\diviwordpress\wp-content\themes\Divi\includes\builder\module\FullwidthSlider.php en la línea 3
+
+2019-12-06T00:40:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\diviwordpress\wp-content\themes\Divi\includes\builder\module\Text.php en la línea 3
+
+2019-12-06T00:40:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\diviwordpress\wp-content\themes\Divi\includes\builder\module\Text.php en la línea 3
+
+2019-12-06T00:40:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\diviwordpress\wp-content\themes\Divi\includes\builder\module\Text.php en la línea 3
+
+2019-12-06T00:40:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\diviwordpress\wp-admin\includes\comment.php en la línea 27
+
+2019-12-06T00:42:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\diviwordpress\wp-admin\includes\theme.php en la línea 21
+
+2019-12-06T05:16:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-content\plugins\pirate-forms\pirate-forms.php en la línea 83
+
+2019-12-06T05:16:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-content\plugins\pirate-forms\pirate-forms.php en la línea 83
+
+2019-12-06T05:16:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-includes\formatting.php en la línea 958
+
+2019-12-06T05:16:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-content\themes\Divi\includes\builder\class-et-builder-element.php en la línea 1056
+
+2019-12-06T05:16:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-content\themes\Divi\includes\builder\module\NumberCounter.php en la línea 3
+
+2019-12-06T05:16:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-includes\wp-db.php en la línea 2030
+
+2019-12-06T05:20:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-includes\Requests\Transport\cURL.php en la línea 163
+
+2019-12-06T05:20:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-content\themes\Divi\core\components\SupportCenter.php en la línea 4
+
+2019-12-06T05:20:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-includes\pomo\mo.php en la línea 323
+
+2019-12-06T05:20:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-content\themes\Divi\includes\builder\class-et-builder-settings.php en la línea 3
+
+2019-12-06T05:20:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-includes\Requests\Cookie\Jar.php en la línea 112
+
+2019-12-06T05:22:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-admin\includes\theme.php en la línea 21
+
+2019-12-06T05:22:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-includes\link-template.php en la línea 3181
+
+2019-12-06T14:37:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-includes\Requests\Transport\cURL.php en la línea 163
+

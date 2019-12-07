@@ -1,0 +1,6 @@
+2019-12-07T02:29:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-includes\Requests\Transport\cURL.php en la línea 441
+
+2019-12-07T02:30:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-content\plugins\pirate-forms\pirate-forms.php en la línea 83
+
+2019-12-07T20:03:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\eskrabajoUno\wp-content\themes\Divi\core\components\data\init.php en la línea 10
+
